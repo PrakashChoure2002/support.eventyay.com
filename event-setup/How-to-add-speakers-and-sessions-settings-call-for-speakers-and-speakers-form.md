@@ -10,15 +10,15 @@ First, go to your event and click on `Event Dashboard`. When you are at **Sessio
 
 ![Call for Speakers](/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form1.png)
 
-## Sessions, Microlocations, Session Types
-Now you are required to provide inputs for **Tracks**, **Microlocations**, and **Session Types**. Hit the `+` to add one or more categories under each section or `-` button to delete them. 
+## Sessions, Micro-locations, Session Types
+Now you are required to provide inputs for **Tracks**, **Micro-locations**, and **Session Types**. Hit the `+` to add one or more categories under each section or `-` button to delete them. 
 
 ![Call for Speakers](/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form2.png)
 
 - **Tracks:**
 Add all the tracks that you are going to host during your event and give a different color to each of them.
 
-- **Microlocations:**
+- **Micro-locations:**
 Provide details such as room names and their dedicated floors in the building (event's venue).
 
 - **Session Types:**
@@ -29,7 +29,7 @@ You can find a sample setting as below:
 ![Call for Speakers](/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form3a.png)
 
 ## Call for Speakers 
-Next, you can start to add  description for the `Call for Speakers` into the **Annoucement** box, set its start/end time and select the
+Next, you can start to add  description for the `Call for Speakers` into the **Announcement** box, set its start/end time and select the
 timezone. Here, you can also decide whether you want to display the `Call for Speakers` publicly or make private. If you set the `Call
 for Speakers` as private, proposals can only be submitted via the private link. 
 

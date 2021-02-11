@@ -4,7 +4,7 @@ title: How to mark offline payment as received
 
 # How to mark offline payment as received?
 
-**Offline payments** are payments made via cheque, bank transfer or on-site. When a ticket is orderd using one of the offline payment options, that ticket will be labeled as `placed` in organizer's dashboard. 
+**Offline payments** are payments made via cheque, bank transfer or on-site. When a ticket is ordered using one of the offline payment options, that ticket will be labeled as `placed` in organizer's dashboard. 
 
 When an offline payment is received, the organizer needs to mark it as received by completing the steps as below.
 

@@ -11,6 +11,7 @@ On [support.eventyay.com](https://support.eventyay.com) you find support informa
 ### Setting up Your Event 
 
 * [How can I create an event on eventyay?](/event-setup/How-can-I-create-an-event.md)
+
 * [How can I create an online event on eventyay?](/event-setup/How-can-I-create-an-online-event-on-eventyay.md)
 * [How can I create a location based or mixed online/in-person event?](/event-setup/How-can-I-create-a-location-based-or-mixed-online-in-person-event.md)
 * [Can I set up an event with multiple dates?](/event-setup/Can-I-set-up-an-event-with-multiple-dates.md)

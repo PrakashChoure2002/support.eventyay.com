@@ -4,7 +4,7 @@ title: How to contact attendees of an event
 
 # How to contact attendees of an event?
 
-Sometimes organisers might need to contact an attendees due to many reason especially regarding payments. In order to contact your attendees, please follow these steps. 
+Sometimes organization might need to contact an attendees due to many reason especially regarding payments. In order to contact your attendees, please follow these steps. 
 
 ## Step 1: Log in
 `Log in` by using your `username` and `password`
@@ -30,4 +30,4 @@ On the left hand corner, select `attendees`, you will be taken to the attendee m
 
 You can see the red box on the right hand corner, you can type in your attendees information. 
 ![How to contact attendees](/images/How-to-contact-attendees-of-an-event-4.png)
-Repeat the same if you want to search for your attendees's information.
+Repeat the same if you want to search for your attendees information.

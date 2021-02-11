@@ -38,7 +38,7 @@ Social media link is located right before the `ticketing system`.
 ![Add additional information](/images/How-to-Add-additional-information-links-1.png)
 
 Select the `+` button, if you want to add more links, or `-` if you want to delete it.
-You can just need to put any social media links `facebook`, `twitter`, `instagram`, `linkedin`, `github`, ect. The system will automatically understand the links and the logos will appear accordingly. 
+You can just need to put any social media links `facebook`, `twitter`, `instagram`, `Linkedin`, `github`, ect. The system will automatically understand the links and the logos will appear accordingly. 
 
 ![Add additional information](/images/How-to-Add-additional-information-links-2.png)
 

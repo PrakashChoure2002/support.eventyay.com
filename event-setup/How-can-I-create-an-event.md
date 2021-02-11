@@ -22,7 +22,7 @@ Slide the cursor to the right if you wish to add owner/organizer's details. You 
 
 ![Create Event Form 2](/images/How-can-I-create-an-event-basic-info-2.png)
 
-Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explaination on adding tickets 
+Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explanation on adding tickets 
 can be found here.
 
 Finally, add any additional details, like the type, topic and license, etc... Click `Forward` to go the next step of the event
@@ -44,7 +44,7 @@ You can also provide information about your `refund policy` or `code of conduct`
 
 ## Attendee Form 
 
-If you want to collect data of your atteendees, click `Turn on Attendee Form`, then select the information you want to collect
+If you want to collect data of your attendees, click `Turn on Attendee Form`, then select the information you want to collect
 
 ![Attendee Form1](/images/How-can-I-create-an-event-attendee-form-1.png)
 

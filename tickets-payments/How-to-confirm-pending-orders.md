@@ -4,11 +4,11 @@ title: How to confirm pending orders
 
 # How to confirm pending orders?
 
-Everytime an attendee places a ticket, that ticket will be accounted as `placed` ticket. 
+Every-time an attendee places a ticket, that ticket will be accounted as `placed` ticket. 
 
 ![Confirm pending orders](/images/How-to-confirm-pending-orders-placed-tickets.png)
 
-Therefore, tickets need to be confirmed before they can be accounted as sales. This will help organisers manage their sales and check if the payments have gone through or not. In order to confirm pending orders, please follow these steps: 
+Therefore, tickets need to be confirmed before they can be accounted as sales. This will help Organiser manage their sales and check if the payments have gone through or not. In order to confirm pending orders, please follow these steps: 
 
 ## Step 1: Log in
 On Evenyay.com, log in using your `username` and `password`.
@@ -30,7 +30,7 @@ You are now on the Event Management main page.
 
 ![Confirm pending orders](/images/How-to-confirm-pending-orders-2.png)
  
- Select `tickets`, this will allow you to view your `order status`, `total orders` and `total sales`. As we can see, a placed ticket has been accounted under `PENDING`. So we need to confirm that ticket onced payment is received. 
+ Select `tickets`, this will allow you to view your `order status`, `total orders` and `total sales`. As we can see, a placed ticket has been accounted under `PENDING`. So we need to confirm that ticket once payment is received. 
 
 ![Confirm pending orders](/images/How-to-confirm-pending-orders-3.png)
 

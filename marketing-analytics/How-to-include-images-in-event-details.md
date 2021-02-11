@@ -20,7 +20,7 @@ title: How to include images in event details
 
 ![Adding Images](/images/How-to-include-images-in-event-details-3.png)
 
-5. Scoll down to the bottom of the page and click **Publish** to save your changes.
+5. Scroll down to the bottom of the page and click **Publish** to save your changes.
 
 ![Adding Images](/images/How-to-include-images-in-event-details-4.png)
 

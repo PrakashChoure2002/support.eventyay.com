@@ -23,7 +23,7 @@ In order to create an online event, select `online` on the menu bar.
 
 ![Create Event Form](/images/How-can-I-create-an-online-event-online-location-1.png)
 
-You will have the options to add an URL for `Live stream` or `Webminar`, then insert the links into the boxes. 
+You will have the options to add an URL for `Live stream` or `Webinar`, then insert the links into the boxes. 
 
 ![Create Event Form](/images/How-can-I-create-an-online-event-online-location-2.png)
 
@@ -57,7 +57,7 @@ You can also provide information about your `refund policy` or `code of conduct`
 
 ## Attendee Form 
 
-If you want to collect data of your atteendees, click `Turn on Attendee Form`, then select the information you want to collect
+If you want to collect data of your attendees, click `Turn on Attendee Form`, then select the information you want to collect
 
 ![Attendee Form1](/images/How-can-I-create-an-online-event-attendee-form-1.png)
 
@@ -96,7 +96,7 @@ If you wish to call for speakers, you can add extra information, and submission 
 
 ![Sessions and Speakers](/images/How-can-I-create-an-online-event-speakers-2.png)
 
-Adding sessions, microlocations and session types
+Adding sessions, micro-locations and session types
 
 You can use the features of `add custom form field` to custom your own form the way you wish, this will apply to `speakers details` and `sessions details`
 
